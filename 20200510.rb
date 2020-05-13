@@ -83,3 +83,5 @@ model: Corolla  animal?: gorilla
 =end
 
 #The answer is Toyota Corolla -> Coyote Gorilla
+
+#....or if numbers are allowed, Kia Rio5 -> Pig Lion
