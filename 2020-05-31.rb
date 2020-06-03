@@ -54,7 +54,7 @@ corpus.scan(/\w+/).each_cons(3) do |x, y, z|
 		num.each do |i|
 			if x == i && y.length >= dig
 				french_array.each do |fr_word|
-					if y.end_with?(remove_accents(fr_word)) && fr_word == dig
+					if y.end_with?(remove_accents(fr_word)) && fr_word.length == dig
 						words_array << (x + " " + y + " " + z)
 					end
 				end
