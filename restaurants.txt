@@ -1,0 +1,251 @@
+1	McDonald's
+2	Starbucks
+3	Chick-fil-A
+4	Taco Bell
+5	Burger King
+6	Subway
+7	Wendy's
+8	Dunkin'
+9	Domino's
+10	Panera Bread
+11	Pizza Hut
+12	Chipotle Mexican Grill
+13	Sonic Drive-In
+14	KFC
+15	Olive Garden
+16	Applebee's
+17	Panda Express
+18	Arby's
+19	Popeyes Louisiana Kitchen
+20	Little Caesars
+21	Dairy Queen
+22	Buffalo Wild Wings
+23	Chili's Grill & Bar
+24	Jack in the Box
+25	IHOP
+26	Texas Roadhouse
+27	Denny's
+28	Papa John's
+29	Outback Steakhouse
+30	Whataburger
+31	Red Lobster
+32	Cracker Barrel
+33	The Cheesecake Factory
+34	Jimmy John's Gourmet Sandwiches
+35	Hardee's
+36	Zaxby's
+37	LongHorn Steakhouse
+38	Culver's
+39	Golden Corral
+40	Five Guys Burgers and Fries
+41	Red Robin Gourmet Burgers and Brews
+42	Raising Cane's Chicken Fingers
+43	Carl's Jr.
+44	Wingstop
+45	Waffle House
+46	Jersey Mike's Subs
+47	Bojangles'
+48	BJ's Restaurant & Brewhouse
+49	TGI Fridays
+50	In-N-Out Burger
+51	Steak 'n Shake
+52	P.F. Chang's
+53	Qdoba Mexican Eats
+54	El Pollo Loco
+55	Krispy Kreme
+56	Hooters
+57	Del Taco
+58	Firehouse Subs
+59	Bob Evans
+60	Moe's Southwest Grill
+61	Papa Murphy's Pizza
+62	Ruby Tuesday
+63	McAlister's Deli
+64	Cheddar's Scratch Kitchen
+65	Church's Chicken
+66	Tim Hortons
+67	Ruth's Chris Steak House
+68	Carrabba's Italian Grill
+69	Jason's Deli
+70	Marco's Pizza
+71	Shake Shack
+72	California Pizza Kitchen
+73	Baskin-Robbins
+74	Yard House
+75	Bonefish Grill
+76	White Castle
+77	Tropical Smoothie Cafe
+78	Dave & Buster's
+79	Dutch Bros. Coffee
+80	Captain D's Seafood Kitchen
+81	Auntie Anne's
+82	First Watch
+83	Perkins Restaurant & Bakery
+84	Freddy's Frozen Custard & Steakburgers
+85	Checkers Drive-In Restaurants
+86	Noodles & Company
+87	Einstein Bros. Bagels
+88	Jamba
+89	Portillo's
+90	Boston Market
+91	The Habit Burger Grill
+92	Logan's Roadhouse
+93	MOD Pizza
+94	Smoothie King
+95	Mellow Mushroom
+96	The Capital Grille
+97	Round Table Pizza
+98	Miller's Ale House
+99	Potbelly sandwich Shop
+100	Hungry Howie's Pizza
+101	Charleys Philly Steaks
+102	Chuy's
+103	O'Charley's
+104	Pollo Tropical
+105	Maggiano's Little Italy
+106	Cicis
+107	Long John Silver's
+108	Saltgrass Steak House
+109	Chuck E. Cheese's
+110	Taco John's
+111	Texas de Brazil Churrascaria
+112	Cold Stone Creamery
+113	Blaze Pizza
+114	Peet's Coffee
+115	Dickey's Barbecue Pit
+116	Zoes Kitchen
+117	Corner Bakery_Cafe
+118	Krystal Co.
+119	Benihana
+120	Cooper's Hawk Winery & Restaurants
+121	Big Boy/Frisch's Big Boy
+122	Black Bear Diner
+123	Twin Peaks
+124	Schlotzsky's
+125	Jet's Pizza
+126	Famous Dave's
+127	On The Border Mexican Grill & Cantina
+128	Fogo de Chao
+129	Ninety Nine Restaurants
+130	Village Inn
+131	Taco Cabana
+132	Fleming's Prime Steakhouse & Wine Bar
+133	Caribou Coffee
+134	Jack's
+135	Au Bon Pain
+136	Bar Louie
+137	Sarku Japan
+138	Old Chicago Pizza & Taproom
+139	Rally's Hamburgers
+140	Torchy's Tacos
+141	Pizza Ranch
+142	Pappadeaux Seafood Kitchen
+143	Braum's Ice Cream & Dairy Stores
+144	Pei Wei Asian Diner
+145	Cafe Rio Mexican Grill
+146	Morton's The Steakhouse
+147	Smashburger
+148	Wienerschnitzel
+149	Sizzler
+150	Seasons 52
+151	Bahama Breeze Island Grille
+152	Pret A Manger
+153	Godfather's Pizza
+154	Huddle House
+155	Mastro's Restaurants
+156	Uncle Julio's
+157	Fazoli's
+158	Rubio's
+159	Legal Sea Foods
+160	A&W All-American Food
+161	Newk's Eatery
+162	Fuzzy's Taco Shop
+163	Sbarro
+164	Romano's Macaroni Grill
+165	Brio Tuscan Grille
+166	Lazy Dog Restaurant & Bar
+167	Souplantation & Sweet Tomatoes
+168	Friendly's
+169	Del Frisco's Double Eagle Steak House
+170	Penn Station East Coast Subs
+171	Cinnabon
+172	Uno Pizzeria & Grill
+173	J. Alexander's
+174	Luby's
+175	Which Wich
+176	Firebirds Wood Fired Grill
+177	Le Pain Quotidien
+178	Sonny's BBQ
+179	True Food Kitchen
+180	Buca di Beppo
+181	Hard Rock Cafe
+182	Johnny Rockets
+183	Fuddruckers
+184	The Original Pancake House
+185	Sweetgreen
+186	Golden Chick
+187	Mountain Mike's Pizza
+188	Bubba Gump Shrimp Co.
+189	The Melting Pot
+190	Farmer Boys
+191	Donatos Pizza
+192	Shoney's
+193	Taco Bueno
+194	Claim Jumper
+195	Wetzel's Pretzels
+196	La Madeleine Country French Cafe
+197	Giordano's
+198	Islands Fine Burgers & Drinks
+199	Mimi's Bistro & Bakery
+200	Beef 'O' Brady's
+201	Metro Diner
+202	Bill Miller Bar-B-Q
+203	Black Angus Steakhouse
+204	Smokey Bones Bar & Fire Grill
+205	Joe's Crab Shack
+206	LaRosa's Pizzeria
+207	Roosters
+208	Great Harvest Bread Co.
+209	Shari's Cafe and Pies
+210	Lee's Famous Recipe Chicken
+211	Wayback Burgers
+212	McCormick & Schmick's
+213	Grand Lux Cafe
+214	Anthony's Coal Fired Pizza
+215	Chicken Salad Chick
+216	Paris Baguette
+217	Eat'n Park
+218	Hurricane Grill & Wings
+219	The Old Spaghetti Factory
+220	Taziki's Mediterranean Cafe
+221	Menchie's Frozen Yogurt
+222	Bruegger's Bagels
+223	Tijuana Flats
+224	Duffy's Sports Grill
+225	Eddie V's Prime Seafood
+226	Topgolf
+227	Ocean Prime
+228	Pappasito's Cantina
+229	Pollo Campero
+230	Houlihan's
+231	Old Country Buffet/HomeTown Buffet
+232	Great American Cookies
+233	Nobu
+234	BurgerFi
+235	Mission BBQ
+236	Walk-On's Sports Bistreaux
+237	The Coffee Bean & Tea Leaf
+238	Yogurtland
+239	Daylight Donuts
+240	WaBa Grill
+241	54th Street Restaurant & Drafthouse
+242	Biggby Coffee
+243	Costa Vida Fresh Mexican Grill
+244	L&L Hawaiian Barbecue
+245	Gyu-Kaku
+246	Rainforest Cafe
+247	PDQ
+248	Lupe Tortilla
+249	Cook-Out Restaurant
+250	Jollibee
+
